@@ -1,0 +1,27 @@
+C:\Users\Antonio Sanchez\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Antonio Sanchez\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Antonio Sanchez\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Antonio Sanchez\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Antonio Sanchez\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Antonio Sanchez\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Antonio Sanchez\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Antonio Sanchez\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Antonio Sanchez\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Antonio Sanchez\Desktop\TIMER CAMBIO DE COLOR DE LABEL C#\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Antonio Sanchez\Desktop\TIMER CAMBIO DE COLOR DE LABEL C#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Antonio Sanchez\Desktop\TIMER CAMBIO DE COLOR DE LABEL C#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Antonio Sanchez\Desktop\TIMER CAMBIO DE COLOR DE LABEL C#\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Antonio Sanchez\Desktop\TIMER CAMBIO DE COLOR DE LABEL C#\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Antonio Sanchez\Desktop\TIMER CAMBIO DE COLOR DE LABEL C#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Antonio Sanchez\Desktop\TIMER CAMBIO DE COLOR DE LABEL C#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Antonio Sanchez\Desktop\TIMER CAMBIO DE COLOR DE LABEL C#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Antonio Sanchez\Desktop\TIMER CAMBIO DE COLOR DE LABEL C#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Antonio Sanchez\SkyDrive\Documentos\C#\TIMER CAMBIO DE COLOR DE LABEL C#\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Antonio Sanchez\SkyDrive\Documentos\C#\TIMER CAMBIO DE COLOR DE LABEL C#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Antonio Sanchez\SkyDrive\Documentos\C#\TIMER CAMBIO DE COLOR DE LABEL C#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Antonio Sanchez\SkyDrive\Documentos\C#\TIMER CAMBIO DE COLOR DE LABEL C#\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Antonio Sanchez\SkyDrive\Documentos\C#\TIMER CAMBIO DE COLOR DE LABEL C#\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Antonio Sanchez\SkyDrive\Documentos\C#\TIMER CAMBIO DE COLOR DE LABEL C#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Antonio Sanchez\SkyDrive\Documentos\C#\TIMER CAMBIO DE COLOR DE LABEL C#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Antonio Sanchez\SkyDrive\Documentos\C#\TIMER CAMBIO DE COLOR DE LABEL C#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Antonio Sanchez\SkyDrive\Documentos\C#\TIMER CAMBIO DE COLOR DE LABEL C#\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
